@@ -1,0 +1,23 @@
+{
+	"name": "coba1",
+	"version": "1.0.0",
+	"description": "mencoba node package manager (npm)",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Excel951/Coba-NPM.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Excel951/Coba-NPM/issues"
+	},
+	"homepage": "https://github.com/Excel951/Coba-NPM#readme",
+	"dependencies": {
+		"19": "^0.0.0"
+	}
+}
