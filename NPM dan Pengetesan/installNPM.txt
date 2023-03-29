@@ -1,0 +1,13 @@
+install lokal
+npm install <package-name>
+
+install global
+npm install -g <package-name>
+
+package yang perlu diinstall secara global untuk mempermudah
+nodemon
+mocha
+
+Lodash adalah package yang berisi banyak utilitas untuk memudahkan kita
+dalam menulis kode JavaScript, khususnya yang berhubungan dengan array, object, string, dll.
+npm install lodash

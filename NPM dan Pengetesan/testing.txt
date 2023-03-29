@@ -1,0 +1,26 @@
+Jest merupakan library tambahan untuk mempermudah pengujian kode
+
+cara penulisan testing
+test('deskripsi dari testcase kamu', () => {
+    expect(perintah).matcher(nilai yang diekspektasikan);
+});
+
+// contoh
+test('dua tambah dua adalah empat', () => {
+    expect(2+2).toBe(4);
+});
+
+describe pada testing (Jest) digunakan untuk mengelompokkan berdasarkan karakteristik atau grup yang sama
+
+describe('pengujian olah aritmatika', () => {
+   test('#1 dua tambah dua adalah empat', () => {
+        expect(2+2).toBe(4);
+   });
+ 
+   test('#2 dua kali tiga adalah enam', () => {
+        expect(2*3).toBe(6);
+   });
+});
+
+default pada package.json:script
+    // "test": "echo \"Error: no test specified\" && exit 1"

@@ -1,0 +1,6 @@
+promise ada 4
+p = Promise
+p.all() => menjalankan semuanya dan menampilkan hasil dalam array {jika ada error, maka semua tidak berjalan}
+p.race() => menerima hasil yang paling cepat {jika ada error, akan ditampilkan jika error adalah hasil yang keluar paling cepat}
+p.allSettled() => menerima semua hasil dan disimpan dalam array of object
+p.any() => mengembalikan nilai tercepat yang bersifat fulfilled / tidak rejected

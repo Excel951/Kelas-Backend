@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1680111976440" clover="3.2.0">
+  <project timestamp="1680111976440" name="All files">
+    <metrics statements="15" coveredstatements="8" conditionals="4" coveredconditionals="2" methods="4" coveredmethods="3" elements="23" coveredelements="13" complexity="0" loc="15" ncloc="15" packages="1" files="1" classes="1"/>
+    <file name="gradeCalculations.js" path="D:\Studi\Dicoding\Kelas Backend\latihantesting\gradeCalculations.js">
+      <metrics statements="15" coveredstatements="8" conditionals="4" coveredconditionals="2" methods="4" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="5" count="7" type="stmt"/>
+      <line num="6" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="4" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="17" count="0" type="stmt"/>
+      <line num="18" count="0" type="stmt"/>
+      <line num="20" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="21" count="0" type="stmt"/>
+      <line num="22" count="0" type="stmt"/>
+      <line num="24" count="0" type="stmt"/>
+      <line num="25" count="0" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
